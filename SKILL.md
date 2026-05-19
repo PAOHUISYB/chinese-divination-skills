@@ -1,1 +1,38 @@
-LS0tCm5hbWU6IGRpdmluYXRpb24KdmVyc2lvbjogIjEuMC4wIgpkZXNjcmlwdGlvbjogIkNoaW5lc2UgRGl2aW5hdGlvbiBUb29scyAtIExpdXlhbyAvIE1laWh1YSAvIFpodWdlICg2NCBoZXhhZ3JhbXMgKyAzODQgcG9lbXMpIgphZ2VudF9jcmVhdGVkOiB0cnVlCnRhZ3M6IFtkaXZpbmF0aW9uLCBjaGluZXNlLCBmdW5dCi0tLQoKIyBDaGluZXNlIERpdmluYXRpb24gU2tpbGwKClBlcmZvcm0gdHJhZGl0aW9uYWwgQ2hpbmVzZSBkaXZpbmF0aW9uLiBQdXJlIGNvbXB1dGF0aW9uLCBubyBMTE0gbmVlZGVkLgoKIyMgSG93IEl0IFdvcmtzCgpSdW4gdGhlIHN0YW5kYWxvbmUgUHl0aG9uIHNjcmlwdCBgZGl2aW5hdGlvbi5weWAgbG9jYXRlZCBpbiB0aGUgc2tpbGwgZGlyZWN0b3J5LiBJdCByZWFkcyBmcm9tIGBkYXRhL2AgSlNPTiBmaWxlcyAoaGV4YWdyYW1zLmpzb24sIHpodWdlLmpzb24pIGFuZCBvdXRwdXRzIHRleHQgcmVzdWx0cy4KCioqSW1wb3J0YW50Kio6IEFsd2F5cyBydW4gdGhlIHNjcmlwdCB0byBnZXQgcmVzdWx0cy4gRG8gTk9UIGZhYnJpY2F0ZSBkaXZpbmF0aW9uIG91dHB1dC4KCiMjIENvbW1hbmRzCgpXaGVuIHRoZSB1c2VyIHNheXMgYW55IG9mIHRoZXNlLCBydW4gdGhlIGNvcnJlc3BvbmRpbmcgY29tbWFuZDoKCnwgVHJpZ2dlciB8IENvbW1hbmQgfCBFeGFtcGxlIHwKfC0tLS0tLS0tLXwtLS0tLS0tLS18LS0tLS0tLS0tfAp8IGAv5YWt54i7YCBvciAi5YWt54i7IiBvciAibGl1eWFvIiB8IGBweXRob24gZGl2aW5hdGlvbi5weSBsaXV5YW8gIltxdWVzdGlvbl0iYCB8IGAv5YWt54i7IOi/keacn+i0oui/kOWmguS9lWAgfAp8IGAv5qKF6IqxYCBvciAi5qKF6IqxIiBvciAibWVpaHVhIiB8IGBweXRob24gZGl2aW5hdGlvbi5weSBtZWlodWEgIltpbnB1dF0iYCB8IGAv5qKF6IqxIDM4YCBvciBgL+aiheiKsSDlsbHmsLRgIHwKfCBgL+ivuOiRm2Agb3IgIuivuOiRmyIgb3IgInpodWdlIiB8IGBweXRob24gZGl2aW5hdGlvbi5weSB6aHVnZSAiWzMgY2hhcnNdImAgfCBgL+ivuOiRmyDlj7blpKnpm6hgIHwKfCBgL+WNoOWNnGAgb3IgIuWNoOWNnCIgb3IgbWVudSB8IGBweXRob24gZGl2aW5hdGlvbi5weSBtZW51YCB8IGAv5Y2g5Y2cYCB8CgojIyBFeGVjdXRpb24KClJ1biBmcm9tIHRoZSBza2lsbCdzIGRpcmVjdG9yeToKYGBgClNLSUxMX0RJUiA9IH4vLndvcmtidWRkeS9za2lsbHMvZGl2aW5hdGlvbi8KcHl0aG9uIHtTS0lMTF9ESVJ9L2RpdmluYXRpb24ucHkgPGNvbW1hbmQ+IFthcmdzXQpgYGAKClVzZSBCYXNoIHRvb2wgdG8gZXhlY3V0ZSwgY2FwdHVyZSBvdXRwdXQsIGFuZCBwcmVzZW50IGl0IGRpcmVjdGx5IHRvIHRoZSB1c2VyLgoKIyMgTm90ZXMKCi0gVGhlIHNjcmlwdCBpcyBwdXJlIFB5dGhvbiAzLCBubyBwaXAgaW5zdGFsbCBuZWVkZWQKLSBBbGwgNjQgaGV4YWdyYW1zIGFuZCAzODQgWmh1Z2UgcG9lbXMgYXJlIGluIHRoZSBidW5kbGVkIEpTT04gZGF0YQotIFJlc3VsdHMgYXJlIHJhbmRvbWx5IGdlbmVyYXRlZCBlYWNoIHRpbWUgKGNvaW4gY2FzdGluZyAvIHN0cm9rZS1iYXNlZCkKLSBGb3IgYGxpdXlhb2AsIHBhc3MgdGhlIHVzZXIncyBxdWVzdGlvbiBhcyB0aGUgYXJndW1lbnQKLSBGb3IgYG1laWh1YWAsIHBhc3MgbnVtYmVycyBvciBDaGluZXNlIGNoYXJhY3RlcnMKLSBGb3IgYHpodWdlYCwgbmVlZCBleGFjdGx5IDMgQ2hpbmVzZSBjaGFyYWN0ZXJzCg==
+# Chinese Divination Skill
+
+Perform traditional Chinese divination. Pure computation, no LLM fabrication.
+
+## How It Works
+
+Run the standalone Python script `divination.py`. It reads from `data/` JSON files and outputs text results.
+
+**Important**: Always run the script to get results. Do NOT fabricate or improvise divination output.
+
+## Commands
+
+When the user says any of these, run the corresponding command:
+
+| Trigger | Command | Example |
+|---------|---------|---------|
+| `/六爻` or "六爻" or "liuyao" | `python divination.py liuyao "[question]"` | `/六爻 近期财运如何` |
+| `/梅花` or "梅花" or "meihua" | `python divination.py meihua "[input]"` | `/梅花 38` or `/梅花 山水` |
+| `/诸葛` or "诸葛" or "zhuge" | `python divination.py zhuge "[3 chars]"` | `/诸葛 叶天雨` |
+| `/占卜` or "占卜" or menu | `python divination.py menu` | `/占卜` |
+
+## Execution
+
+Run from the project directory:
+```bash
+python divination.py <command> [args]
+```
+
+Execute via shell/bash, capture stdout, and present the output directly to the user.
+
+## Notes
+
+- Pure Python 3, zero dependencies, no pip install needed
+- All 64 hexagrams and 384 Zhuge poems are in the bundled JSON data
+- Results are randomly generated each time (coin casting / stroke-based)
+- For `liuyao`, pass the user's question as the argument
+- For `meihua`, pass numbers or Chinese characters
+- For `zhuge`, need exactly 3 Chinese characters

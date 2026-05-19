@@ -1,1 +1,57 @@
-IyBDaGluZXNlIERpdmluYXRpb24gU2tpbGxzCgpUcmFkaXRpb25hbCBDaGluZXNlIGRpdmluYXRpb24gdG9vbHMgd2l0aCBjb21wbGV0ZSBkYXRhYmFzZXMg4oCUIHB1cmUgUHl0aG9uLCB6ZXJvIGRlcGVuZGVuY2llcy4KCiMjIEZlYXR1cmVzCgotICoqTGl1eWFvICjlha3niLspKiog4oCUIFNpeC1MaW5lIGNvaW4gY2FzdGluZyBkaXZpbmF0aW9uIHdpdGggNjQgaGV4YWdyYW1zCi0gKipNZWlodWEgKOaiheiKseaYk+aVsCkqKiDigJQgUGx1bSBCbG9zc29tIG51bWVyb2xvZ3kgdmlhIG51bWJlcnMgb3IgY2hhcmFjdGVyIHN0cm9rZXMKLSAqKlpodWdlICjor7jokZvnpZ7nrpcpKiog4oCUIFpodWdlIExpYW5nJ3MgMzg0LXBvZW0gZGl2aW5hdGlvbiBzeXN0ZW0KCkFsbCBkYXRhIGluY2x1ZGVkOiA2NCBoZXhhZ3JhbXMgd2l0aCBqdWRnbWVudHMsIGltYWdlcywgcmVhZGluZ3MgKyAzODQgWmh1Z2UgcG9lbXMgd2l0aCBpbnRlcnByZXRhdGlvbnMuCgojIyBTdGFuZGFsb25lIENMSQoKYGBgYmFzaAojIEluc3RhbGwgLyBjbG9uZQpnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL1BBT0hVSVNZQi9kaXZpbmF0aW9uLXNraWxscy5naXQKY2QgZGl2aW5hdGlvbi1za2lsbHMKCiMgUnVuCnB5dGhvbiBkaXZpbmF0aW9uLnB5IGxpdXlhbyAiV2lsbCBJIGdldCByaWNoPyIKcHl0aG9uIGRpdmluYXRpb24ucHkgbWVpaHVhIDM4CnB5dGhvbiBkaXZpbmF0aW9uLnB5IHpodWdlIOm+meWkqembqApweXRob24gZGl2aW5hdGlvbi5weSBtZW51CmBgYAoKQWxzbyBzdXBwb3J0cyBDaGluZXNlIGNvbW1hbmQgbmFtZXM6IGBweXRob24gZGl2aW5hdGlvbi5weSDlha3niLsg6L+R5pyf6LSi6L+QYAoKIyMgQXN0ckJvdCBQbHVnaW4KClRoZSBgYXN0cmJvdC1wbHVnaW4vYCBkaXJlY3RvcnkgY29udGFpbnMgdGhlIEFzdHJCb3QgcGx1Z2luIHZlcnNpb24uCgpJbnN0YWxsIHRvIEFzdHJCb3QncyBwbHVnaW4gZGlyZWN0b3J5OgpgYGBiYXNoCmNwIC1yIGFzdHJib3QtcGx1Z2luL2FzdHJib3RfcGx1Z2luX2RpdmluYXRpb24gL3BhdGgvdG8vQXN0ckJvdC9kYXRhL3BsdWdpbnMvCmBgYAoKQ29tbWFuZHMgaW4gQXN0ckJvdDogYC/lha3niLtgLCBgL+aiheiKsWAsIGAv6K+46JGbYCwgYC/ljaDljZxgCgojIyBXb3JrQnVkZHkgU2tpbGwKClRoZSBgU0tJTEwubWRgIGZpbGUgYWxsb3dzIHVzaW5nIHRoaXMgYXMgYSBXb3JrQnVkZHkvQUkgYXNzaXN0YW50IHNraWxsLgoKIyMgRGF0YQoKfCBGaWxlIHwgRGVzY3JpcHRpb24gfCBTaXplIHwKfC0tLS0tLXwtLS0tLS0tLS0tLS0tfC0tLS0tLXwKfCBgZGF0YS9oZXhhZ3JhbXMuanNvbmAgfCA2NCBoZXhhZ3JhbXMgd2l0aCBmdWxsIHJlYWRpbmdzIHwgfjMwS0IgfAp8IGBkYXRhL3podWdlLmpzb25gIHwgMzg0IFpodWdlIHBvZW1zIHdpdGggaW50ZXJwcmV0YXRpb25zIHwgfjY3S0IgfAp8IGBkYXRhL2xpdXlhby5qc29uYCB8IFN1cHBsZW1lbnRhcnkgTGl1IFlhbyBkYXRhIHwgfjlLQiB8CgojIyBMaWNlbnNlCgpNSVQK
+# Chinese Divination Skills
+
+Traditional Chinese divination tools with complete databases — pure Python, zero dependencies.
+
+> **Any AI platform** can use this. Just tell it: "clone this repo, run `python divination.py` to do divination."
+
+## Features
+
+- **Liuyao (六爻)** — Six-Line coin casting divination with 64 hexagrams
+- **Meihua (梅花易数)** — Plum Blossom numerology via numbers or character strokes
+- **Zhuge (诸葛神算)** — Zhuge Liang's 384-poem divination system
+
+All data included: 64 hexagrams with judgments, images, readings + 384 Zhuge poems with interpretations.
+
+## Quick Start
+
+```bash
+git clone https://github.com/PAOHUISYB/chinese-divination-skills.git
+cd chinese-divination-skills
+
+python divination.py liuyao "近期财运如何"
+python divination.py meihua 38
+python divination.py zhuge 龙天雨
+python divination.py menu
+```
+
+Also supports Chinese command names: `python divination.py 六爻 近期财运`
+
+## AI Integration
+
+`SKILL.md` is a universal AI instruction file. Compatible with:
+
+- **WorkBuddy** — place in `~/.workbuddy/skills/divination/`
+- **QwenPaw / QClaW** — import as custom skill or feed `SKILL.md` as system prompt
+- **Claude / ChatGPT / any LLM** — paste the content of `SKILL.md` into the system prompt or project instructions
+
+## AstrBot Plugin
+
+The `astrbot-plugin/` directory contains the AstrBot plugin version.
+
+```bash
+cp -r astrbot-plugin/astrbot_plugin_divination /path/to/AstrBot/data/plugins/
+```
+
+Commands: `/六爻`, `/梅花`, `/诸葛`, `/占卜`
+
+## Data
+
+| File | Description | Size |
+|------|-------------|------|
+| `data/hexagrams.json` | 64 hexagrams with full readings | ~30KB |
+| `data/zhuge.json` | 384 Zhuge poems with interpretations | ~67KB |
+| `data/liuyao.json` | Supplementary Liu Yao data | ~9KB |
+
+## License
+
+MIT
